@@ -1,5 +1,21 @@
 # gg
 
+> [!IMPORTANT]
+> **gg is archived and superseded by [scriv](https://github.com/joakimen/scriv).**
+>
+> `gg github clone` is now `scriv repo clone`: the same interactive,
+> multi-select, concurrent clone, plus previews, existing checkouts marked and
+> skipped, and per-repository failure reporting. Authentication is handled by
+> `gh` rather than a token in the system keyring, so `gg github login` has no
+> successor and needs none — run `gh auth login`.
+>
+> ```sh
+> brew uninstall joakimen/tap/gg
+> mise use -g github:joakimen/scriv
+> ```
+>
+> This repository stays up for reference only. It receives no further changes.
+
 gg - Go GitHub
 
 Convenience CLI for some GitHub operations.
