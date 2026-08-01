@@ -1,5 +1,13 @@
 # gg
 
+> [!IMPORTANT]
+> **archived and superseded by [scriv](https://github.com/joakimen/scriv).**
+>
+> ```sh
+> brew uninstall joakimen/tap/gg
+> mise use -g github:joakimen/scriv
+> ```
+
 gg - Go GitHub
 
 Convenience CLI for some GitHub operations.
